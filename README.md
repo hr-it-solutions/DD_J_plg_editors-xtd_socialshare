@@ -6,6 +6,9 @@ A Joomla! editors-xtd plugin for DD SocialShare https://github.com/hr-it-solutio
 ### Plugin Features
 - SocialSahre Editor-XTD Button to open a social push request from the editor windows.
 
+### Dependent Extensions
+- com_dd_socialshare [DD SocialShare](https://github.com/hr-it-solutions/DD_J_com_socialshare)
+
 # System requirements
 Joomla 3.8 +                                                                                <br>
 PHP 7.0 or newer is recommended.
